@@ -27,16 +27,16 @@ The membership lasts till the member makes it to third year, upon which, their m
 # The President
 The president is the only member of the club whose membership doesn’t end after reaching third year. In fact, only a third year student can be the Club President.
 Appendix 
-Created by: ('@keogami')
-Date of creation: Feb 8th, 2022
-Last Modified: Feb 8th, 2022
+Created by: <'@keogami'>
+Date of creation: <Feb 8th, 2022>
+Last Modified: <Feb 8th, 2022>
 Version: 1.0.0
 
 # Change log
 
 | Change description        | Changes made by  |
 | -----------               |   -----------    |
-| Created the first version | ('@keogami')     |
+| Created the first version | '@keogami'       |
 
 
 

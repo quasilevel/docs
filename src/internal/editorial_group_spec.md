@@ -47,7 +47,7 @@ Version: 1.0.0
 
 | Change description         | Changes made by |
 | -----------                | -----------     |
-| Created the first version  | '@keogami'      |
+| Created the first version  | '@keogami'       |
 
 
 

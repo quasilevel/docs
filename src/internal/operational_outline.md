@@ -1,5 +1,5 @@
 ---
-title: OPERATIONAL OUTLINE
+title: Operational Outline
 layout: base.njk
 ---
 
@@ -66,14 +66,14 @@ The following acts increases points for the members:
 Each act carries a different weight of points, however, the actual number will never be made public.
 
 Appendix 
-Created by: <'@keogami'>
-Date of creation: <Feb 8th, 2022>
-Last Modified: <Feb 8th, 2022>
+Created by: @keogami
+Date of creation: Feb 8th, 2022
+Last Modified: Feb 8th, 2022
 Version: 1.0.0
 
 ## Change log
 
 | Change description           | Changes mnade by |
 | -----------                  | -----------      |
-| Created the first version    | '@keogami'       |
+| Created the first version    | @keogami         |
 

@@ -1,5 +1,5 @@
 ---
-title: piThon
+title: PiThon
 layout: base.njk
 ---
 
@@ -42,6 +42,7 @@ Examples of good themes:
 
 ## PiThon: Schedule
 PiThon’s schedule should be strict and rigid, avoiding date extensions. The following is the suggested schedule:
+
 |Day                                   |  Actions                           |
 |-                                     |-                                   |
 |Pre-Submission Period (2 days)        | 1. PiThon is announced 
@@ -91,15 +92,15 @@ The primary rewards are as follows:
 
 Other rewards like: Trophies, Shields, cash, etc. depend on the funding provided by the college.
 ## Appendix 
-Created by: <'@keogami'>
-Date of creation: <May 8th, 2022>
-Last Modified: <May 8th, 2022>
+Created by: @keogami
+Date of creation: May 8th, 2022
+Last Modified: May 8th, 2022
 Version: 1.0.0
 
 ## Change log
 
 | Change description             | Changes made by                   |
 | -----------                    | -----------                       | 
-| Created the first version      | '@keogami'                        |
+| Created the first version      | @keogami                          |
 
 

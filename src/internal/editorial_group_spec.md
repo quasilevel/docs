@@ -1,5 +1,5 @@
 ---
-title: EDITORIAL GROUP SPEC
+title: Editorial Group Spec
 layout: base.njk
 ---
 
@@ -8,7 +8,7 @@ The purpose of this document is to specify the roles, duties and operations of t
 
 ## Primary Functions
 - Editing / Proofreading
-  Documents of varying length will be provided to the group and it must proofread them to be free of errors pertaining to spelling, grammar, tone and register.
+  Documents of varying length will be provided to the group and it must proofread them to be free of errors pertaining to spelling, grammar, [tone and register.](/interanal/editorial_group_spec)
 - Tone Correction
   Documents of varying length will be provided to the group along with a description of the intended audience, and the group must perform any tone correction needed to make the document’s language fit for the audience.
 - Prompt based Creative Writing
@@ -20,7 +20,7 @@ At an high level, the interaction can be described as:
 - Input:
   The club will provide the prompt and an appropriate base material.
 - Output:
-  The group then provides the final output along with a proof of verification from the group’s instructor.
+  The group then provides the final output along with a [proof of verification](/internal/editorial_group_spec) from the group’s instructor.
 Going deeper, the group and the club interact through a club-initiated full duplex mode of communication, generalized as:
 - Initiation:
   The club provides the prompt and the appropriate base material.
@@ -38,16 +38,16 @@ The group must verify their work with their instructor and must provide proof th
 The format of this proof is intentionally unspecified.
 
 ## Appendix 
-Created by: <'@keogami'>
-Date of creation:<Sept 14th, 2022>
-Last Modified: <Sept 14th, 2022>
+Created by: @keogami
+Date of creation: Sept 14th, 2022
+Last Modified: Sept 14th, 2022
 Version: 1.0.0
 
 ## Change log
 
 | Change description         | Changes made by |
 | -----------                | -----------     |
-| Created the first version  | '@keogami'       |
+| Created the first version  | @keogami        |
 
 
 

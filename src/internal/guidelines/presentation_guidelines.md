@@ -1,5 +1,5 @@
 ---
-title: PRESENTATION GUIDELINES
+title: Presentation Guidelines
 layout: base.njk
 ---
 
@@ -18,22 +18,22 @@ Henceforth, the term artifact refers to the Presentation document produced by th
 The guidelines are divided into four sections:
 
 ### Aesthetic
-This section includes guidelines for the visuals and look-and-feel of the artifacts.
+This section includes guidelines for the _visuals and look-and-feel_ of the artifacts.
 
 ### Structural
-This section includes guidelines for the structure of the artifacts.
+This section includes guidelines for the _structure_ of the artifacts.
 
 ### Contentual
-This section includes guidelines for the content of the artifacts.
+This section includes guidelines for the _content_ of the artifacts.
 
 ### Functional
-This section includes guidelines for functions to be performed before, during and after artifact creation.
+This section includes guidelines for _functions to be performed before, during and after artifact creation._
 
 |-------                                                                          |
 
 
 ## Aesthetic
-- $ref: PI Club - Aesthetic Guidelines
+- $ref: [PI Club - Aesthetic Guidelines](/internal/guidelines/aesthetic_guidelines)
 
 ## Structural
 
@@ -65,14 +65,15 @@ This section includes guidelines for functions to be performed before, during an
 3. The artifact must be stored online:
      * Local copies (digital/print) are discouraged.
 4. A link to the artifact must be shared with the members through PI Club's discord server:
-     * The artifact must be shared at least 1 day before the presentation.
-
-|----------------------------------------------------------------------------------|
+     * The artifact must be shared at least 1 day before the presentation
+     
+     
+|---------------------------------------------------------------------------------|
 
 ## Appendix
-Created by: <'@keogami'>
-Date of creation: <Jan 8th, 2021>
-Last Modified: <Jan 8th, 2021>
+Created by: @keogami
+Date of creation: Jan 8th, 2021
+Last Modified: Jan 8th, 2021
 Version: 1.0.0
 
 
@@ -82,5 +83,5 @@ Version: 1.0.0
 
 | Change description        | Changes made by   |
 |---------------------      |-----------------  |
-| Created the first version | '@keogami'        |
+| Created the first version |  @keogami         |
 

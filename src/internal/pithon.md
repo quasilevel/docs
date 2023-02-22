@@ -1,5 +1,5 @@
 ---
-title: PI CLUB
+title: piThon
 layout: base.njk
 ---
 

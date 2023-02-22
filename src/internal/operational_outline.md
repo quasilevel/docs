@@ -1,5 +1,5 @@
 ---
-title: PI CLUB
+title: OPERATIONAL OUTLINE
 layout: base.njk
 ---
 

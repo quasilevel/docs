@@ -1,5 +1,5 @@
 ---
-title: PI CLUB
+title: EDITORIAL GROUP SPEC
 layout: base.njk
 ---
 

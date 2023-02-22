@@ -20,7 +20,7 @@ Detail the purpose of this document under this heading...remove this text and wr
 
 1. Item 1
 2. Item 2
-    * Sub-item
+    1. Sub-item 1
 3. Item 3
 
 {% for page in collections.pages %}

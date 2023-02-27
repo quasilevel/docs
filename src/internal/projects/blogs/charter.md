@@ -2,7 +2,7 @@
 title: Charter
 layout: base.njk
 ---
-#Content
+# Content
 ## Home page:-
 1. Short about text explaining what this blog is about, 50 words max
 2. A big banner for the latest blog post

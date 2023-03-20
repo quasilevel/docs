@@ -4,12 +4,12 @@ layout: base.njk
 ---
 
 ## Purpose of this document
-This document contains the details of Boolviz & Pithon.
+This document contains the details of Boolviz & PiThon.
 
 ## PiThon
 
 ### Time
-   One Week without any other commitments
+One Week without any other commitments. The organising will be like this :- 
 - Topic Announcement (Day 1)
 - Submission Time (Day 1 to Day 3)
 - Grace Day for Submittion (Day 4)

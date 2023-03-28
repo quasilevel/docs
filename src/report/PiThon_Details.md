@@ -17,7 +17,7 @@ Complete details with Date :-
 - Announcement for Showcase of Project (Fri Apr 14 2023)
 - Showcase & Result Declaration & Certificate Distribution (Sat Apr 15 2023)
 
-&nbsp
+
 
 ### PiThon: Submission
 To ensure the genuity of their efforts, teams are required to use Git (or any VCS) which records the development history.
@@ -29,6 +29,8 @@ The teams will submit the following information:
 - Project link (Github, GitLab, etc.)
 - Team Info (Team Members Names)
   Team can be formed but the maximum number of students should not exceed 4.
+
+
 
 ### PiThon: Reward
 The primary rewards are as follows:

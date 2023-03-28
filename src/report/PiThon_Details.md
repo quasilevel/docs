@@ -1,5 +1,5 @@
 ---
-title: Pithon Details
+title: PiThon Details
 layout: base.njk
 ---
 
@@ -16,11 +16,11 @@ Complete details with Date :-
 - Days for Checking Project (Thu Apr 13 2023 to Fri Apr 14 2023)
 - Announcement for Showcase of Project (Fri Apr 14 2023)
 - Showcase & Result Declaration & Certificate Distribution (Sat Apr 15 2023)
-
+<br>
 ### PiThon: Submission
 To ensure the genuity of their efforts, teams are required to use Git (or any VCS) which records the development history.
 And to make code sharing easy and streamlined, the teams will submit their entries through Github (or any other Remote Repo Service).
-
+<br>
 The teams will submit the following information:
 - Contact Info (Email Address)
 - Project Info (Project Description)

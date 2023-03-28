@@ -7,7 +7,7 @@ layout: base.njk
 This document contains the full details of PiThon along with organisation dates.
 
 ## PiThon
-&nbsp;
+
 ### Time
 Complete details with Date :-
 - Topic Announcement (Mon Apr 10 2023)
@@ -16,8 +16,6 @@ Complete details with Date :-
 - Days for Checking Project (Thu Apr 13 2023 to Fri Apr 14 2023)
 - Announcement for Showcase of Project (Fri Apr 14 2023)
 - Showcase & Result Declaration & Certificate Distribution (Sat Apr 15 2023)
-
-
 
 ### PiThon: Submission
 To ensure the genuity of their efforts, teams are required to use Git (or any VCS) which records the development history.
@@ -28,9 +26,7 @@ The teams will submit the following information:
 - Project Info (Project Description)
 - Project link (Github, GitLab, etc.)
 - Team Info (Team Members Names)
-  Team can be formed but the maximum number of students should not exceed 4.
-
-
+  - Team can be formed but the maximum number of students should not exceed 4.
 
 ### PiThon: Reward
 The primary rewards are as follows:

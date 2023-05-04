@@ -1,6 +1,7 @@
 ---
 title: Editorial Group Spec
 layout: base.njk
+tags: meta2
 ---
 
 ## Purpose of this document

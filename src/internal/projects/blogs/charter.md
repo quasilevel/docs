@@ -1,6 +1,7 @@
 ---
 title: Project Charter
 layout: base.njk
+tags: meta2
 ---
 ## Home page
 1. Short about text explaining what this blog is about, 50 words max

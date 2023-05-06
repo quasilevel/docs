@@ -1,8 +1,7 @@
 ---
 title: Presentation Guidelines
 layout: base.njk
-tags: meta1
----
+project: meta1
 
 ## Purpose of this document
 These are the guidelines that are to be followed when creating a presentation for PI Club’s training sessions.

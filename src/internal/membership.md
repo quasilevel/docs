@@ -1,7 +1,7 @@
 ---
 title: Membership
 layout: base.njk
-tags: meta1
+project: meta1
 ---
 
 ## Purpose of this document

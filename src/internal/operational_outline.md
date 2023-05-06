@@ -1,6 +1,7 @@
 ---
 title: Operational Outline
 layout: base.njk
+project: meta2
 ---
 
 ## Purpose of This Document

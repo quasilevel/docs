@@ -1,6 +1,7 @@
 ---
 title: Aesthetic Guidelines
 layout: base.njk
+project: meta1
 ---
 
 ## Purpose of this document
